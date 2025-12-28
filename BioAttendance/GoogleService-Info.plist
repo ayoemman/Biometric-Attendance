@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA0md39rGVOug-BeZN6ER4k6WtBEFumrU8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>232985288356</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.unit7Journal.BioAttendance</string>
+	<key>PROJECT_ID</key>
+	<string>bioattendance-d8c03</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bioattendance-d8c03.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:232985288356:ios:8bbc9c5e18f3b3c7755031</string>
+</dict>
+</plist>
